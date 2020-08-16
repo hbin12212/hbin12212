@@ -2,6 +2,7 @@
 ### 💻Front-End Developer & Designer
 - blog: ~ developing
 - e-mail: hbin12212@gmail.com
+- portfolio: ~ developing
 - organization: [22Hours](https://www.22hours.online/)
 
 ✨ **DEVSTU** ✨: [**Korea devloper's community**](https://devstu.co.kr)
