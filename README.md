@@ -1,5 +1,5 @@
 ## 🌱 Hyobin
-### 💻Front-End Developer
+### 💻Front-End Developer & Designer
 - blog: ~ developing
 - e-mail: hbin12212@gmail.com
 - organization: [22Hours](https://www.22hours.online/)
