@@ -1,4 +1,4 @@
-## 🌱 Hyobin
+## 🌱 HyoBin
 ### 💻Front-End Developer & Designer
 - blog: ~ developing
 - e-mail: hbin12212@gmail.com
