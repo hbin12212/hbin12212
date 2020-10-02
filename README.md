@@ -3,7 +3,7 @@
 - blog: ~ developing
 - e-mail: hbin12212@gmail.com
 - portfolio: ~ developing
-- organization: [22Hours](https://www.22hours.online/)
+- organization: [22Hours]
 
 ✨ **DEVSTU** ✨: [**Korea devloper's community**](https://devstu.co.kr)
 <!--
