@@ -1,5 +1,6 @@
-## 🌱 HyoBin
 [![HitCount](http://hits.dwyl.com/hbin12212/{project}.svg)](http://hits.dwyl.com/hbin12212)
+
+## 🌱 HyoBin
 
 ### 💻Front-End Developer & Designer
 [![HYOBIN's github stats](https://github-readme-stats.vercel.app/api?username=hbin12212&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
