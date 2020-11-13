@@ -1,5 +1,3 @@
-[![HitCount](http://hits.dwyl.com/hbin12212/{project}.svg)](http://hits.dwyl.com/hbin12212)
-
 ## 🌱 HyoBin
 
 ### 💻Front-End Developer & Designer
