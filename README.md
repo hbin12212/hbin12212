@@ -7,8 +7,6 @@
 - e-mail: hbin12212@gmail.com
 - portfolio: ~ developing
 - organization: [22Hours]
-- **tumblbug : [waffle here](https://tumblbug.com/waffle_here?ref=discover)**
-
 
 ✨ **DEVSTU** ✨: [**Korea devloper's community**](https://devstu.co.kr)
 <!--
