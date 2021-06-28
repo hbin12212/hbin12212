@@ -1,6 +1,6 @@
 
 
-<p align="center">![header](https://capsule-render.vercel.app/api?type=waving&color=9370DB&fontColor=E6E6FA&height=300&section=header&text=HYOBIN&fontSize=90&animation=fadeIn)</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=9370DB&fontColor=E6E6FA&height=300&section=header&text=HYOBIN&fontSize=90&animation=fadeIn)
 <br/>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
@@ -21,6 +21,6 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Devstu-17a2b8?style=flat-square"/>&nbsp
 <img src="https://img.shields.io/badge/22hours-000000?style=flat-square"/>&nbsp
-<a href="mailto:"hbin12212@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a></p>
+<a href="mailto:hbin12212@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a></p>
 <br/>
-<p align="center">![](https://readme-stickers.vercel.app/api/kodeveloper?name=김효빈&theme=dark)</p>
+![](https://readme-stickers.vercel.app/api/kodeveloper?name=김효빈&theme=dark)
