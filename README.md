@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=9370DB&fontColor=E6E6FA&height=250&fontAlign=50&section=header&text=HYOBIN&fontSize=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=slice&color=9370DB&fontColor=E6E6FA&height=250&fontAlign=50&section=header&text=HyoBin&fontSize=70&animation=fadeIn)
 <br />
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
@@ -21,6 +21,7 @@
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" />
 </p>
 
+<br />
 <br />
 <p align="center">🍀HYOBIN🍀</p>
 <p align="center">
