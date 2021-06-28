@@ -23,7 +23,7 @@
 
 <br />
 <br />
-<p align="center">🍀HYOBIN🍀</p>
+<p align="center">🍀Me🍀</p>
 <p align="center">
     <a href="https://devstu.co.kr"><img src="https://img.shields.io/badge/Devstu-17a2b8?style=flat-square" /></a>&nbsp
     <img src="https://img.shields.io/badge/22hours-000000?style=flat-square" />&nbsp
