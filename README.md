@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=9370DB&fontColor=E6E6FA&height=300&section=header&text=HYOBIN&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=9370DB&fontColor=E6E6FA&height=300&fontAlign=50&section=header&text=HYOBIN&fontSize=90&animation=fadeIn)
 <br/>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
@@ -17,10 +17,12 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></p>
 
 <br/>
-<p align="center">🌟Me🌟</p>
+<p align="center">🍀HYOBIN🍀</p>
 <p align="center">
-<img src="https://img.shields.io/badge/Devstu-17a2b8?style=flat-square"/>&nbsp
+<a href="https://devstu.co.kr"><img src="https://img.shields.io/badge/Devstu-17a2b8?style=flat-square"/></a>&nbsp
 <img src="https://img.shields.io/badge/22hours-000000?style=flat-square"/>&nbsp
 <a href="mailto:hbin12212@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a></p>
 <br/>
-![](https://readme-stickers.vercel.app/api/kodeveloper?name=김효빈&theme=dark)
+
+<div align="center">
+![](https://readme-stickers.vercel.app/api/kodeveloper?name=김효빈&theme=dark)</div>
