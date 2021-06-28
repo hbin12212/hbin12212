@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=9370DB&fontColor=E6E6FA&height=300&fontAlign=50&section=header&text=HYOBIN&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=9370DB&fontColor=E6E6FA&height=250&fontAlign=50&section=header&text=HYOBIN&fontSize=70&animation=fadeIn)
 <br />
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
