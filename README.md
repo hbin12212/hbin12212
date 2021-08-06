@@ -21,8 +21,8 @@
 <br />
 <p align="center">🍀Me🍀</p>
 <p align="center">
-    <a href="https://devstu.co.kr"><img src="https://img.shields.io/badge/Devstu-17a2b8?style=flat-square&logo=Iconify&logoColor=white" /></a>&nbsp
- <a href="https://devstu.co.kr"><img src="https://img.shields.io/badge/About-14BF96?style=flat-square&logo=Instacart&logoColor=white" /></a>&nbsp
+    <a href="https://devstu.co.kr"><img src="https://img.shields.io/badge/Devstu-00B0EA?style=flat-square&logo=Iconify&logoColor=white" /></a>&nbsp
+ <a href="https://www.notion.so/hyobin-2bcc40300c2b4e0fafdb6a36f1c3e9f3"><img src="https://img.shields.io/badge/About-14BF96?style=flat-square&logo=Instacart&logoColor=white" /></a>&nbsp
     <a href="mailto:hbin12212@gmail.com"
         ><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
     /></a>
