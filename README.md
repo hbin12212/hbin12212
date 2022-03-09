@@ -23,6 +23,6 @@
 </p>
 <br />
 
-<div align=center>
-	![](https://readme-stickers.vercel.app/api/kodeveloper?name=김효빈&theme=dark)
-</div>
+
+![](https://readme-stickers.vercel.app/api/kodeveloper?name=%ea%b9%80%ed%9a%a8%eb%b9%88&theme=dark)
+
