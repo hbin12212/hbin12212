@@ -21,10 +21,13 @@
         ><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
     /></a>
 </p>
-<br />
+<br /><br />
 
+
+	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbin12212&layout=compact)](https://github.com/hbin12212/github-readme-stats)
+	
   <div align=center>
-<!-- ![](https://readme-stickers.vercel.app/api/kodeveloper?name=김효빈&theme=dark) -->
-	    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbin12212)](https://github.com/hbin12212/github-readme-stats)
+![](https://readme-stickers.vercel.app/api/kodeveloper?name=김효빈&theme=dark)
+	  
 	
 </div>
