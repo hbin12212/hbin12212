@@ -15,7 +15,7 @@
 <br />
 <h3 align="center">👀ABOUT👀</h3>
 <p align="center">
-    <a href="https://www.notion.so/Hyobin-6c934be7ef6341f78f895e24b84cfd15"><img src="https://img.shields.io/badge/Portfolio-00B0EA?style=flat-square&logo=Iconify&logoColor=white" /></a>&nbsp
+    <a href="https://www.hyobb.com/?utm_source=github_profile"><img src="https://img.shields.io/badge/GitBook-00B0EA?style=flat-square&logo=Iconify&logoColor=white" /></a>&nbsp
  <a href="https://velog.io/@hbin12212"><img src="https://img.shields.io/badge/Velog-14BF96?style=flat-square&logo=Instacart&logoColor=white" /></a>&nbsp
     <a href="mailto:hbin12212@gmail.com"
         ><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
