@@ -15,7 +15,7 @@
 <br />
 <h3 align="center">👀ABOUT👀</h3>
 <p align="center">
-    <a href="https://one-step-js.hyobb.com/section1-why/1-1/?utm_source=github_profile"><img src="https://img.shields.io/badge/GitBook-00B0EA?style=flat-square&logo=Iconify&logoColor=white" /></a>&nbsp
+    <a href="https://one-step-js.hyobb.com/utm_source=github_profile"><img src="https://img.shields.io/badge/Javascript-00B0EA?style=flat-square&logo=Iconify&logoColor=white" /></a>&nbsp
  <a href="https://hyobb.com/?utm_source=github_profile"><img src="https://img.shields.io/badge/HomePage-14BF96?style=flat-square&logo=Instacart&logoColor=white" /></a>&nbsp
     <a href="mailto:hbin12212@gmail.com"
         ><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
