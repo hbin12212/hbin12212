@@ -33,7 +33,7 @@ FrontEnd 개발자이자, 개발 지식을 공유하는 교육자입니다.
   
 
 <h2>✉️ Contact</h2>
-- email : hbin12212@gmail.com
+<a href="mailto:hbin12212@gmail.com">hbin12212@gmail.com</a>
 
 
   
