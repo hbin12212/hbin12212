@@ -12,7 +12,7 @@ FrontEnd 개발자이자, 개발 지식을 공유하는 교육자입니다.
   <tbody>
     <tr>
 	<td>
-        <a href="https://inf.run/JdtuU" title="인프런-한 번에 끝내는 자바스크립트">
+        <a href="https://inf.run/WfRmY" title="인프런-한 번에 끝내는 자바스크립트">
           <img align="center" src="https://github.com/user-attachments/assets/6a139acb-8471-4915-b501-04b49a845583" width="300" alt-text="FE-onego">
 	<div style="text-align: center;">강의)한 번에 끝내는 자바스크립트</div>
         </a>
