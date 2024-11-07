@@ -6,6 +6,15 @@ FrontEnd 개발자이자, 개발 지식을 공유하는 교육자입니다.
 
 > HTML, Javascript, React, Next
 
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/hbin12212"
+  width="600"
+  height="300"
+/>
+</a>
+
 <br/>
 <h2>🚀 Activities</h2>
 <table>
