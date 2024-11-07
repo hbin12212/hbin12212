@@ -1,5 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:2b91b0,100:66ae7b&height=120&fontColor=E6E6FA&fontAlign=50&animation=fadeIn&section=footer&text=HyoBin☘️&fontAlign=70)
 <br/>
+  
+<h2>👩🏻‍🏫 Introduction</h2>
+FrontEnd 개발자이자, 개발 지식을 공유하는 교육자입니다.
+
+> HTML, Javascript, React, Next
 
 
 <a href="https://github.com/devxb/gitanimals">
@@ -9,12 +14,6 @@
     height="120"
   />
 </a>
-
-  
-<h2>👩🏻‍🏫 Introduction</h2>
-FrontEnd 개발자이자, 개발 지식을 공유하는 교육자입니다.
-
-> HTML, Javascript, React, Next
 
 
 <br/>
