@@ -1,19 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:2b91b0,100:66ae7b&height=120&fontColor=E6E6FA&fontAlign=50&animation=fadeIn&section=footer&text=HyoBin☘️&fontAlign=70)
 <br/>
 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/hbin12212?pet-id=642212583922701814"
+    width="600"
+    height="120"
+  />
+</a>
+
+  
 <h2>👩🏻‍🏫 Introduction</h2>
 FrontEnd 개발자이자, 개발 지식을 공유하는 교육자입니다.
 
 > HTML, Javascript, React, Next
 
-
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/hbin12212"
-  width="600"
-  height="300"
-/>
-</a>
 
 <br/>
 <h2>🚀 Activities</h2>
