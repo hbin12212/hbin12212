@@ -10,11 +10,12 @@ FrontEnd 개발자이자, 개발 지식을 공유하는 교육자입니다.
 
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/hbin12212?pet-id=642212775946337258"
+    src="https://render.gitanimals.org/lines/hbin12212?pet-id=642212583922701814"
     width="1000"
     height="120"
   />
 </a>
+  
   
 
 
