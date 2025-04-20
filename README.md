@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=HYOBIN&descAlign=60&descAlignY=24&fontColor=D9D9D6)
+![header](https://capsule-render.vercel.app/api?type=blur&height=150&color=gradient&text=HYOBIN&descAlign=60&descAlignY=24&fontColor=D9D9D6)
 <br/>
   
 <h2>👩🏻‍🏫 Introduction</h2>
